@@ -1,3 +1,3 @@
 # kowloon
 
-unpackaged software manager
+Unpackaged Software Manager
