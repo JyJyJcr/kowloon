@@ -1,0 +1,11 @@
+[package]
+name = "kowloon"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["JyJyJcr <82190170+JyJyJcr@users.noreply.github.com>"]
+license = "WTFPL"
+homepage = "https://github.com/JyJyJcr/kowloon"
+description = "Unpackaged Software Manager"
+
+[dependencies]
